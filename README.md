@@ -1,2 +1,21 @@
-# personal-info-page
-Dynamic personal info page that loads and displays data from a JSON file using Fetch API. Demonstrates async data handling, DOM manipulation, and clean separation between structure, logic, and data in a simple and interactive interface.
+# 📄 Dynamic Personal Info Page
+
+Aplicação web que carrega e exibe informações pessoais de forma dinâmica a partir de um arquivo JSON, utilizando a Fetch API.
+
+## 🚀 Tecnologias
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- Fetch API  
+- JSON  
+
+## ⚙️ Funcionalidades
+- Consumo de dados via Fetch API  
+- Leitura de arquivo JSON  
+- Renderização dinâmica na página  
+- Estrutura simples e organizada  
+
+## 📚 Aprendizados
+- Requisições assíncronas (Promises)  
+- Manipulação do DOM  
+- Separação entre dados e interface  

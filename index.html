@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Currículo Web</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1 id="nome">Currículo</h1>
+
+    <div class="botoes">
+        <button onclick="carregarPessoa('gustavo.json')">Gustavo Rodrigues</button>
+    </div>
+</header>
+
+<main class="container">
+
+    <div class="coluna-esquerda">
+
+        <img id="foto" class="foto">
+
+        <h2>Dados pessoais</h2>
+        <p><b>Nascimento:</b> <span id="nascimento"></span></p>
+        <p><b>Email:</b> <span id="email"></span></p>
+        <p><b>Telefone:</b> <span id="telefone"></span></p>
+        <p><b>Linkedin:</b> <a id="linkedin" target="_blank"></a></p>
+        <p><b>Github:</b> <a id="github" target="_blank"></a></p>
+
+        <h2>Conhecimentos</h2>
+        <ul id="conhecimentos"></ul>
+
+    </div>
+
+    <div class="coluna-direita">
+
+        <h2>Experiência Profissional</h2>
+        <div id="experiencias"></div>
+
+        <h2>Formação Acadêmica</h2>
+        <div id="formacao"></div>
+
+    </div>
+
+</main>
+
+<footer>
+Autor: Gustavo Rodrigues de Freitas
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>

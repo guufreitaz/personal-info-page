@@ -1,0 +1,59 @@
+{
+"nome": "Gustavo Rodrigues de Freitas",
+
+"foto": "foto.jpg",
+
+"nascimento": "19/01/2005",
+
+"email": "gustavohodrigues@gmail.com",
+
+"telefone": "(11) 96288-1901",
+
+"linkedin": "https://www.linkedin.com/in/gustavo-rodrigues-7bb96722b/",
+
+"github": "https://github.com/gustavo",
+
+"conhecimentos": [
+"Java",
+"HTML",
+"JavaScript",
+"CSS"
+],
+
+"experiencias":[
+
+{
+"cargo":"Assistente Administrativo",
+"empresa":"Empresa Familiar",
+"descricao":"Atendimento ao cliente e organização administrativa.",
+"inicio":"2022",
+"fim":"2023"
+},
+
+{
+"cargo":"Técnico de Informática",
+"empresa":"Loja de Assistência Técnica",
+"descricao":"Manutenção de computadores e notebooks, instalação de softwares.",
+"inicio":"2023",
+"fim":"2024"
+}
+
+],
+
+"formacao":[
+
+{
+"curso":"Análise e Desenvolvimento de Sistemas (ADS)",
+"instituicao":"Centro Universitário Senac - Santo AmaroUniversidade",
+"conclusao":"Em andamento"
+},
+
+{
+"curso":"Cursos de Programação",
+"instituicao":"Cursos Online",
+"conclusao":"2023"
+}
+
+]
+
+}
