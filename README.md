@@ -8,11 +8,13 @@ CSS3
 JavaScript (ES6+)
 Fetch API
 JSON
+
 ⚙️ Features
 Data consumption using Fetch API
 JSON file reading
 Dynamic content rendering on the page
 Simple and organized structure
+
 📚 Learning Outcomes
 Asynchronous requests (Promises)
 DOM manipulation
